@@ -17,11 +17,16 @@ macbook界面：
 ![](https://p1.pstatp.com/origin/pgc-image/f0998818db534b6a8988befd37df04a1)
 
 Windows安装包：https://wwa.lanzous.com/irkG0evjs7e
+windows用户一定要看使用教程：https://1024shen.com/archives/533
+
 Macbook安装包：https://wwa.lanzous.com/icychevlcsb
+
 安卓安装包：https://1024shen.com/archives/2888
+
 苹果免翻：https://1024shen.com/archives/2891
 
 个人博客地址：https://1024shen.com
+
 
 ## 之所以能持续更新 ##
 是因为我写了一个程序，能自动爬取1024免翻地址，可以持续不断更新，只要1024不倒，我就可以一直更新！如果喜欢，请star我哦
