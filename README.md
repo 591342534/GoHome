@@ -16,9 +16,10 @@ windows界面：
 macbook界面：
 ![](https://p1.pstatp.com/origin/pgc-image/f0998818db534b6a8988befd37df04a1)
 
-Windows安装包：https://wwa.lanzous.com/idkAxe83nzi
-
-Macbook安装包：https://wwa.lanzous.com/ikkEWea4ixe
+Windows安装包：https://wwa.lanzous.com/irkG0evjs7e
+Macbook安装包：https://wwa.lanzous.com/icychevlcsb
+安卓安装包：https://1024shen.com/archives/2888
+苹果免翻：https://1024shen.com/archives/2891
 
 个人博客地址：https://1024shen.com
 
